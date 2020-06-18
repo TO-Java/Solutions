@@ -3,7 +3,7 @@ package S20200610;
 public class Exe05 {
 
     public static void main(String[] args) {
-        System.out.println(daysOfMonth(2003,7));
+        System.out.println(daysOfMonth(2003, 7));
     }
 
     public static int daysOfMonth(int year, int month) {
